@@ -16,7 +16,9 @@ OpenAlex provides free, comprehensive metadata on over 250 million scholarly wor
 
 ## Rust core
 
-[**openalex-snapshot**](https://github.com/openalexPro/openalex-snapshot) is the compiled Rust CLI and library that powers `openalexSnapshot`'s hot path (JSON→Parquet conversion, indexing, ID extraction). It is automatically compiled or downloaded as a pre-built static library when you install `openalexSnapshot` — no manual Rust setup required for most users.
+| Package | Description | Release |
+|---------|-------------|---------|
+| [**openalex-snapshot**](https://github.com/openalexPro/openalex-snapshot) | Compiled Rust CLI and library powering `openalexSnapshot`'s hot path (JSON→Parquet conversion, indexing, ID extraction). Downloaded automatically as a pre-built static library on install — no manual Rust setup required for most users. | [![GitHub release](https://img.shields.io/github/v/release/openalexPro/openalex-snapshot)](https://github.com/openalexPro/openalex-snapshot/releases/latest) |
 
 ## Installation
 
