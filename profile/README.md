@@ -12,7 +12,6 @@ OpenAlex provides free, comprehensive metadata on over 250 million scholarly wor
 | [**openalexSnowball**](https://github.com/openalexPro/openalexSnowball) | Snowball citation searches — iteratively expand a seed set by following forward and backward citations across the graph | [![r-universe](https://openalexpro.r-universe.dev/openalexSnowball/badges/version)](https://openalexpro.r-universe.dev/openalexSnowball) |
 | [**openalexConvert**](https://github.com/openalexPro/openalexConvert) | Export a Parquet corpus to BibTeX, BibLaTeX, CSL JSON, Markdown, LaTeX, HTML, or PDF via Pandoc | [![r-universe](https://openalexpro.r-universe.dev/openalexConvert/badges/version)](https://openalexpro.r-universe.dev/openalexConvert) |
 | [**openalexVectorComp**](https://github.com/openalexPro/openalexVectorComp) | Text embedding, cosine-distance scoring, and threshold calibration — backend-neutral (HuggingFace, OpenAI, TEI) | [![r-universe](https://openalexpro.r-universe.dev/openalexVectorComp/badges/version)](https://openalexpro.r-universe.dev/openalexVectorComp) |
-| [**openalexSnapshot**](https://github.com/rkrug/openalexSnapshot) | Convert the full OpenAlex bulk snapshot (JSON.GZ → Parquet) using a compiled Rust back-end via extendr | — |
 
 ## Installation
 
