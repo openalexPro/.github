@@ -12,9 +12,9 @@ The `main` and `dev` badges show the version in each branch's `DESCRIPTION`, rea
 
 ### [openalexPro](https://github.com/openalexPro/openalexPro)
 
+[![r-universe](https://openalexpro.r-universe.dev/openalexPro/badges/version)](https://openalexpro.r-universe.dev/openalexPro)
 [![main](https://img.shields.io/github/r-package/v/openalexPro/openalexPro/main?label=main)](https://github.com/openalexPro/openalexPro/tree/main)
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexPro/dev?label=dev)](https://github.com/openalexPro/openalexPro/tree/dev)
-[![r-universe](https://openalexpro.r-universe.dev/openalexPro/badges/version)](https://openalexpro.r-universe.dev/openalexPro)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453180.svg)](https://doi.org/10.5281/zenodo.17453180)
 [![CI](https://github.com/openalexPro/openalexPro/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openalexPro/openalexPro/actions/workflows/R-CMD-check.yaml)
 [![Codecov](https://codecov.io/gh/openalexPro/openalexPro/graph/badge.svg)](https://app.codecov.io/gh/openalexPro/openalexPro)
@@ -28,9 +28,9 @@ Core API client — build queries (classic filters or OpenAlex's query language,
 
 ### [openalexSnowball](https://github.com/openalexPro/openalexSnowball)
 
+[![r-universe](https://openalexpro.r-universe.dev/openalexSnowball/badges/version)](https://openalexpro.r-universe.dev/openalexSnowball)
 [![main](https://img.shields.io/github/r-package/v/openalexPro/openalexSnowball/main?label=main)](https://github.com/openalexPro/openalexSnowball/tree/main)
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexSnowball/dev?label=dev)](https://github.com/openalexPro/openalexSnowball/tree/dev)
-[![r-universe](https://openalexpro.r-universe.dev/openalexSnowball/badges/version)](https://openalexpro.r-universe.dev/openalexSnowball)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448982.svg)](https://doi.org/10.5281/zenodo.20448982)
 [![CI](https://github.com/openalexPro/openalexSnowball/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openalexPro/openalexSnowball/actions/workflows/R-CMD-check.yaml)
 [![Codecov](https://codecov.io/gh/openalexPro/openalexSnowball/graph/badge.svg)](https://app.codecov.io/gh/openalexPro/openalexSnowball)
@@ -44,9 +44,9 @@ Snowball citation searches — expand a set of seed papers by the works that cit
 
 ### [openalexConvert](https://github.com/openalexPro/openalexConvert)
 
+[![r-universe](https://openalexpro.r-universe.dev/openalexConvert/badges/version)](https://openalexpro.r-universe.dev/openalexConvert)
 [![main](https://img.shields.io/github/r-package/v/openalexPro/openalexConvert/main?label=main)](https://github.com/openalexPro/openalexConvert/tree/main)
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexConvert/dev?label=dev)](https://github.com/openalexPro/openalexConvert/tree/dev)
-[![r-universe](https://openalexpro.r-universe.dev/openalexConvert/badges/version)](https://openalexpro.r-universe.dev/openalexConvert)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448988.svg)](https://doi.org/10.5281/zenodo.20448988)
 [![CI](https://github.com/openalexPro/openalexConvert/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openalexPro/openalexConvert/actions/workflows/R-CMD-check.yaml)
 [![Codecov](https://codecov.io/gh/openalexPro/openalexConvert/graph/badge.svg)](https://app.codecov.io/gh/openalexPro/openalexConvert)
@@ -60,9 +60,9 @@ Export a Parquet corpus to BibTeX, BibLaTeX, CSL JSON, Markdown, LaTeX, HTML, or
 
 ### [openalexSnapshot](https://github.com/openalexPro/openalexSnapshot)
 
+[![r-universe](https://openalexpro.r-universe.dev/openalexSnapshot/badges/version)](https://openalexpro.r-universe.dev/openalexSnapshot)
 [![main](https://img.shields.io/github/r-package/v/openalexPro/openalexSnapshot/main?label=main)](https://github.com/openalexPro/openalexSnapshot/tree/main)
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexSnapshot/dev?label=dev)](https://github.com/openalexPro/openalexSnapshot/tree/dev)
-[![r-universe](https://openalexpro.r-universe.dev/openalexSnapshot/badges/version)](https://openalexpro.r-universe.dev/openalexSnapshot)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448992.svg)](https://doi.org/10.5281/zenodo.20448992)
 [![CI](https://github.com/openalexPro/openalexSnapshot/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/openalexPro/openalexSnapshot/actions/workflows/R-CMD-check.yaml)
 [![Codecov](https://codecov.io/gh/openalexPro/openalexSnapshot/graph/badge.svg)](https://app.codecov.io/gh/openalexPro/openalexSnapshot)
@@ -76,9 +76,9 @@ Offline work with a local OpenAlex snapshot in Parquet — ID, DOI and citation 
 
 ### [openalexVectorComp](https://github.com/openalexPro/openalexVectorComp)
 
+[![r-universe](https://openalexpro.r-universe.dev/openalexVectorComp/badges/version)](https://openalexpro.r-universe.dev/openalexVectorComp)
 [![main](https://img.shields.io/github/r-package/v/openalexPro/openalexVectorComp/main?label=main)](https://github.com/openalexPro/openalexVectorComp/tree/main)
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexVectorComp/dev?label=dev)](https://github.com/openalexPro/openalexVectorComp/tree/dev)
-[![r-universe](https://openalexpro.r-universe.dev/openalexVectorComp/badges/version)](https://openalexpro.r-universe.dev/openalexVectorComp)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19607514.svg)](https://doi.org/10.5281/zenodo.19607514)
 [![CI](https://github.com/openalexPro/openalexVectorComp/actions/workflows/pr-checks.yml/badge.svg)](https://github.com/openalexPro/openalexVectorComp/actions/workflows/pr-checks.yml)
 [![Codecov](https://codecov.io/gh/openalexPro/openalexVectorComp/graph/badge.svg)](https://app.codecov.io/gh/openalexPro/openalexVectorComp)
