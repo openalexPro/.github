@@ -16,7 +16,7 @@ Badges per package, by line: **released** (`main`) — r-universe version, `main
 
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexPro/dev?label=dev)](https://github.com/openalexPro/openalexPro/tree/dev) [![CI dev](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexPro/R-CMD-check.yaml?branch=dev&label=CI%20dev)](https://github.com/openalexPro/openalexPro/actions/workflows/R-CMD-check.yaml?query=branch%3Adev)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453180.svg)](https://doi.org/10.5281/zenodo.17453180) [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: GPL-2+](https://img.shields.io/badge/License-GPL%20%3E%3D%202-blue.svg)](https://www.gnu.org/licenses/gpl-2.0) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexPro/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453180.svg)](https://doi.org/10.5281/zenodo.17453180) [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexPro/)
 
 Core API client — build queries (classic filters or OpenAlex's query language, OQL), page through the results, and store them as Parquet. Resumes interrupted downloads, and processes on disk, so it scales to millions of records without RAM limits.
 
@@ -28,7 +28,7 @@ Core API client — build queries (classic filters or OpenAlex's query language,
 
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexSnowball/dev?label=dev)](https://github.com/openalexPro/openalexSnowball/tree/dev) [![CI dev](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexSnowball/R-CMD-check.yaml?branch=dev&label=CI%20dev)](https://github.com/openalexPro/openalexSnowball/actions/workflows/R-CMD-check.yaml?query=branch%3Adev)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448982.svg)](https://doi.org/10.5281/zenodo.20448982) [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: GPL-2+](https://img.shields.io/badge/License-GPL%20%3E%3D%202-blue.svg)](https://www.gnu.org/licenses/gpl-2.0) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexSnowball/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448982.svg)](https://doi.org/10.5281/zenodo.20448982) [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexSnowball/)
 
 Snowball citation searches — expand a set of seed papers by the works that cite them and the works they cite, written as partitioned Parquet. Runs live against the OpenAlex API (via openalexPro) or offline against a local snapshot (via openalexSnapshot).
 
@@ -40,7 +40,7 @@ Snowball citation searches — expand a set of seed papers by the works that cit
 
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexConvert/dev?label=dev)](https://github.com/openalexPro/openalexConvert/tree/dev) [![CI dev](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexConvert/R-CMD-check.yaml?branch=dev&label=CI%20dev)](https://github.com/openalexPro/openalexConvert/actions/workflows/R-CMD-check.yaml?query=branch%3Adev)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448988.svg)](https://doi.org/10.5281/zenodo.20448988) [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: GPL-2+](https://img.shields.io/badge/License-GPL%20%3E%3D%202-blue.svg)](https://www.gnu.org/licenses/gpl-2.0) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexConvert/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448988.svg)](https://doi.org/10.5281/zenodo.20448988) [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexConvert/)
 
 Export a Parquet corpus to BibTeX, BibLaTeX, CSL JSON, Markdown, LaTeX, HTML, or PDF via Pandoc, or straight into Zotero — with the OpenAlex ID in Extra, re-exports that skip, update or overwrite, nested collections, and tags in both directions.
 
@@ -52,7 +52,7 @@ Export a Parquet corpus to BibTeX, BibLaTeX, CSL JSON, Markdown, LaTeX, HTML, or
 
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexSnapshot/dev?label=dev)](https://github.com/openalexPro/openalexSnapshot/tree/dev) [![CI dev](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexSnapshot/R-CMD-check.yaml?branch=dev&label=CI%20dev)](https://github.com/openalexPro/openalexSnapshot/actions/workflows/R-CMD-check.yaml?query=branch%3Adev)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448992.svg)](https://doi.org/10.5281/zenodo.20448992) [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: GPL-2+](https://img.shields.io/badge/License-GPL%20%3E%3D%202-blue.svg)](https://www.gnu.org/licenses/gpl-2.0) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexSnapshot/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20448992.svg)](https://doi.org/10.5281/zenodo.20448992) [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexSnapshot/)
 
 Offline work with a local OpenAlex snapshot in Parquet — ID, DOI and citation indexes, record extraction by OpenAlex ID or DOI at scale, and an offline citation graph (works citing or cited by a paper). Pure R over DuckDB; nothing to compile.
 
