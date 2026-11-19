@@ -18,7 +18,7 @@ Badges per package, by line: **released** (`main`) — r-universe version, `main
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17453180.svg)](https://doi.org/10.5281/zenodo.17453180) [![Lifecycle: maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://lifecycle.r-lib.org/articles/stages.html) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexPro/)
 
-Core API client — build queries (classic filters or OpenAlex's query language, OQL), page through the results, and store them as Parquet. Resumes interrupted downloads, and processes on disk, so it scales to millions of records without RAM limits.
+Core API client — build queries (classic filters or OpenAlex's query language, OQL), page through the results, and store them as Parquet. Resumes interrupted downloads, and processes on disk, so it scales to millions of records without RAM limits. Saves results as OpenAlex collections: shareable, reusable ID sets kept in sync with their queries.
 
 ---
 
