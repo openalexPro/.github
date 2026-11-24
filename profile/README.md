@@ -70,9 +70,21 @@ Text embedding, cosine-distance scoring, and threshold calibration — backend-n
 
 ---
 
+### [openalexAPI](https://github.com/openalexPro/openalexAPI) — Alpha
+
+[![Status: alpha](https://img.shields.io/badge/status-alpha-red.svg)](https://github.com/openalexPro/openalexAPI) [![main](https://img.shields.io/github/r-package/v/openalexPro/openalexAPI/main?label=main)](https://github.com/openalexPro/openalexAPI/tree/main) [![CI main](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexAPI/R-CMD-check.yaml?branch=main&label=CI%20main)](https://github.com/openalexPro/openalexAPI/actions/workflows/R-CMD-check.yaml?query=branch%3Amain)
+
+[![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexAPI/dev?label=dev)](https://github.com/openalexPro/openalexAPI/tree/dev) [![CI dev](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexAPI/R-CMD-check.yaml?branch=dev&label=CI%20dev)](https://github.com/openalexPro/openalexAPI/actions/workflows/R-CMD-check.yaml?query=branch%3Adev)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexAPI/)
+
+Serve a local Parquet corpus as an OpenAlex-compatible web API — the same classic filters, OQL, `group_by` and full-text search against your own data, so openalexPro downloads from it unchanged; with a web page for running queries in the browser. Alpha: functions and responses may still change. Not on r-universe yet; install from GitHub with `pak::pak("openalexPro/openalexAPI")`.
+
+---
+
 ## Installation
 
-All R packages are available from the openalexPro r-universe:
+The released R packages are available from the openalexPro r-universe:
 
 ```r
 install.packages(
@@ -80,6 +92,13 @@ install.packages(
     "openalexSnapshot", "openalexVectorComp"),
   repos = c("https://openalexpro.r-universe.dev", "https://cloud.r-project.org")
 )
+```
+
+**openalexAPI** is in alpha and not on r-universe yet; install it from GitHub:
+
+```r
+# install.packages("pak")
+pak::pak("openalexPro/openalexAPI")
 ```
 
 ## Design principles
