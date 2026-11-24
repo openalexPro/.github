@@ -76,7 +76,7 @@ Text embedding, cosine-distance scoring, and threshold calibration — backend-n
 
 [![dev](https://img.shields.io/github/r-package/v/openalexPro/openalexAPI/dev?label=dev)](https://github.com/openalexPro/openalexAPI/tree/dev) [![CI dev](https://img.shields.io/github/actions/workflow/status/openalexPro/openalexAPI/R-CMD-check.yaml?branch=dev&label=CI%20dev)](https://github.com/openalexPro/openalexAPI/actions/workflows/R-CMD-check.yaml?query=branch%3Adev)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexAPI/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24514237.svg)](https://doi.org/10.5281/zenodo.24514237) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://openalexpro.github.io/openalexAPI/)
 
 Serve a local Parquet corpus as an OpenAlex-compatible web API — the same classic filters, OQL, `group_by` and full-text search against your own data, so openalexPro downloads from it unchanged; with a web page for running queries in the browser. Alpha: functions and responses may still change. Not on r-universe yet; install from GitHub with `pak::pak("openalexPro/openalexAPI")`.
 
